@@ -1,0 +1,49 @@
+# Arquivos de configuração do Eclipse
+.project
+.settings/
+.metadata/
+.classpath
+.factorypath
+.wstoolkit
+
+# Diretórios de compilação
+/bin/
+target/
+build/
+dist/
+
+# Arquivos de cache
+*.snap
+*.bak
+*.tmp
+*.log
+
+# Arquivos de IDE
+*.launch
+*.classpath
+*.project
+*.settings/
+*.metadata/
+*.pydevproject
+*.pydevworkspace
+*.pydevproject.xml
+*.pydevworkspace.xml
+*.pydevproject
+*.pydevworkspace
+*.pydevproject.xml
+*.pydevworkspace.xml
+
+# Arquivos de sistema
+*.iml
+*.ipr
+*.iws
+*.vscode/
+*.idea/
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+*.suo
+*.ntvs*
+*.sln.docstates
+*.ncb
+*.cache
